@@ -16,9 +16,7 @@ Usage:
 To download map data for a region, first run: python data_acquisition.py
 You will be prompted to enter a location. Then, you can run python main.py to start the application.
 
-
-Detailed Output Mode:
-When Detailed Output Mode is enabled, the application will log detailed information to the console. This can help in identifying the exact behavior of the algorithms. To disable, set DETAILED_OUTPUT_MODE in route_finder.py to False.
+When Detailed Output Mode is enabled, the application will log detailed information to the console. To disable, set DETAILED_OUTPUT_MODE in route_finder.py to False.
 
 
 I hope you enjoy and find this cool. :)
