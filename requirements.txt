@@ -1,0 +1,7 @@
+osmnx
+folium
+networkx
+geopy
+PyQt5
+PyQtWebEngine
+scikit-learn
