@@ -1,7 +1,3 @@
-Routing Algorithm Visualizer
-
-
-Overview:
 The Routing Algorithm Visualizer is a Python application for visualization of graph traversal algorithms. It finds routes between two locations, using OSMnx for map data, NetworkX for graph operations, and Folium for map visualization. 
 
 The application supports Dijkstra, A*, Bellman-Ford, BFS, DFS, and Bidirectional Search, and allows for comparison of these algorithms based on the number of steps taken to find a route.
